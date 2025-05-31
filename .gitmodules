@@ -1,0 +1,3 @@
+[submodule "themes/jekyll-klise"]
+	path = themes/jekyll-klise
+	url = https://github.com/piharpi/jekyll-klise.git
