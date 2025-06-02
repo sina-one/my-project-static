@@ -124,7 +124,7 @@ pygmentsUseClasses = true
 noClasses = false
 
 [permalinks]
-posts = "/:contentbasename/"
+  posts = "/:year/:month/:title/"
 
 [[menu.main]]
 identifier = "FATags"
