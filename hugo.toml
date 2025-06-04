@@ -14,6 +14,8 @@ buildExpired = false
 
 publishDir = "public"
 
+##این کد رو متوجه نشدم
+
 [params]
 [[params.social]]
 name = "twitter"
@@ -139,7 +141,7 @@ url = "/archives/"
 weight = 30
 
 [[menu.main]]
-identifier = "about me"
+identifier = "aboutme"
 name = "درباره من"
 url = "/aboutme/"
 weight = 30
