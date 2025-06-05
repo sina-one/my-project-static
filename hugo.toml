@@ -1,4 +1,5 @@
 truebaseURL = "https://zeroone01.pages.dev"
+relativeURLs = false
 languageCode = "fa"
 defaultContentLanguage = "fa"
 title = "ZeroOne"
