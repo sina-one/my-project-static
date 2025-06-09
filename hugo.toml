@@ -1,7 +1,7 @@
 truebaseURL = "https://zeroone01.pages.dev"
 languageCode = "fa"
 defaultContentLanguage = "fa"
-title = "ZeroOne"
+title = "صفر و یک"
 theme = "PaperMod"
 
 [pagination]
@@ -66,8 +66,8 @@ name = "Tags"
 url = "tags"
 
 [params.homeInfoParams]
-Title = "سلام سینا حسینی هستم"
-Content = """ برنامه چه نویسی :) """
+Title = "سینا حسینی هستم"
+Content = """برای | یک | شدن باید از | صفر | شروع کنی ! """
 
 
 
@@ -108,8 +108,8 @@ hiddenInList = true
 hiddenInSingle = true
 
 [params.editPost]
-URL = "https://github.com/<path_to_repo>/content"
-Text = "Suggest Changes"
+URL = ""
+Text = ""
 appendFilePath = true
 
 [params.fuseOpts]

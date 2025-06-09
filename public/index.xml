@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ZeroOne</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on ZeroOne</description>
+    <title>صفر و یک</title>
+    <link>https://zeroone01.pages.dev/</link>
+    <description>Recent content on صفر و یک</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
