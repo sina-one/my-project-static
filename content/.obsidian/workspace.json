@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "674a23082f47822f",
+        "id": "1226c51e5f69c3f2",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4ca1c8ac6fdc15",
+            "id": "22319a2309732d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme.md",
+                "file": "abut/aboutme.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,13 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4ca1c8ac6fdc15",
+  "active": "22319a2309732d18",
   "lastOpenFiles": [
-    "archives.md",
-    "aboutme.md",
-    "sina.png",
-    "me.png",
     "2025-06-10.md",
+    "abut/aboutme.md",
+    "sina.jpg",
+    "abut/sina.jpg",
+    "posts/post-with-picture/index.md",
+    "abut/sina.png",
+    "abut",
+    "posts/post-with-picture/globe.png",
+    "archives.md",
+    "me.png",
     "home.md",
     "index.md",
     "2025-06-05.md",
@@ -184,8 +189,6 @@
     "2025-06-02.md",
     "fatags/_index.md",
     "posts/آموزش-کاربری/index.md",
-    "posts/post-with-picture/index.md",
-    "posts/post-with-picture/globe.png",
     "posts/test1.md",
     "posts/_index.md",
     "0002-02-06.md",
