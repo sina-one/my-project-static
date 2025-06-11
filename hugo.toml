@@ -3,6 +3,7 @@ languageCode = "fa"
 defaultContentLanguage = "fa"
 title = "صفر و یک"
 theme = "PaperMod"
+timeZone = "Asia/Tehran"
 
 [pagination]
 pagerSize = 8

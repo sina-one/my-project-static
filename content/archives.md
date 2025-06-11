@@ -1,4 +1,4 @@
 ---
-title: "آرشیو"
-layout: "archives"
+title: آرشیو
+layout: archives
 ---
