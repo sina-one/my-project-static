@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1226c51e5f69c3f2",
+        "id": "0c785fcc1021ea07",
         "type": "tabs",
         "children": [
           {
-            "id": "22319a2309732d18",
+            "id": "c9738af5ba1cb976",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "aboutme/sina-hosseini.png"
+                "file": "posts/text-post/2025/post-2/developer_backend.jpg"
               },
               "icon": "lucide-image",
-              "title": "sina-hosseini"
+              "title": "developer_backend"
             }
           }
         ]
@@ -158,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -167,34 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22319a2309732d18",
+  "active": "c9738af5ba1cb976",
   "lastOpenFiles": [
-    "aboutme/index.md",
     "posts/text-post/2025/one post/index.md",
-    "posts/text-post/2025/one post/sina.png",
     "_index.md",
-    "posts/text-post/2025/post-5/internet.jpg",
+    "archives.md",
+    "bank.md",
     "posts/text-post/2025/post-5/index.md",
     "posts/text-post/2025/post-4/index.md",
-    "posts/text-post/2025/post-3/index.md",
+    "posts/text-post/2025/post-4/GoogleTranslate.jpg",
+    "posts/text-post/2025/post-5/internet.jpg",
+    "posts/text-post/2025/post-5/cable.jpg",
+    "Google-Translate.md",
+    "posts/text-post/2025/post-4/GoogleTranslatehome.jpg",
+    "Google-Transla.md",
+    "2025-10-15.md",
     "posts/text-post/2025/post-2/index.md",
+    "aboutme/sina-hosseini.png",
+    "aboutme/index.md",
+    "posts/text-post/2025/one post/sina.png",
+    "posts/text-post/2025/post-3/index.md",
     "posts/text-post/2025/post-2/developer_intro.jpg",
     "posts/text-post/2025/post-2/developer_frontend.jpg",
     "posts/text-post/2025/post-2/developer_devops.jpg",
     "posts/text-post/2025/post-2/developer_backend.jpg",
-    "2025-10-15.md",
-    "posts/text-post/2025/post-5/cable.jpg",
-    "posts/text-post/2025/post-5/Google-Translate.jpg",
-    "posts/text-post/2025/post-5/Google-Translate-home.jpg",
     "posts/text-post/2025/post-5",
     "2025-06-12.md",
-    "posts/text-post/2025/post-4/Google-Translate.jpg",
     "Google.md",
     "posts/text-post/2025/post-4",
-    "archives.md",
     "Role-based.md",
     "نقشه.md",
-    "bank.md",
     "posts/text-post/2025/post-3",
     "2025-06-10.md",
     "abut/aboutme.md",
@@ -206,8 +209,6 @@
     "2025-06-04.md",
     "2025-06-02.md",
     "fatags/_index.md",
-    "posts/آموزش-کاربری/index.md",
-    "posts/test1.md",
     "Untitled.canvas",
     "posts/post-with-picture 1",
     "posts/آموزش-کاربری"
