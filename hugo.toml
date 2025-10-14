@@ -48,6 +48,7 @@ safari_pinned_tab = "<link / abs url>"
 
 [params.label]
 text = "| صفر و یک |"
+url = "/"
 icon = "/apple-touch-icon.png"
 iconHeight = 35
 
@@ -74,11 +75,11 @@ Content = """برای | یک | شدن باید از | صفر | شروع کنی !
 
 [[params.socialIcons]]
 name = "instagram"
-url = "https://instagram.com"
+url = "https://instagram.com/mr_hosseeini_8"
 
 [[params.socialIcons]]
 name = "telegram"
-url = "https://telegram.com"
+url = "https://t.m/mr_Hosseeini_8"
 
 [[params.socialIcons]]
 name = "github"
