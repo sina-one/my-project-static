@@ -3,27 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-06-10T00:00:00+03:30</lastmod>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
   </url><url>
     <loc>//localhost:1313/fatags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</loc>
-    <lastmod>2025-06-10T00:00:00+03:30</lastmod>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fatags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/</loc>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fatags/</loc>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fatags/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/</loc>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fatags/%D9%86%D9%82%D8%B4%D9%87-%D8%B1%D8%A7%D9%87/</loc>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/2025/06/%D9%86%D9%82%D8%B4%D9%87-%D8%B1%D8%A7%D9%87/</loc>
+    <lastmod>2025-06-12T00:00:00+03:30</lastmod>
   </url><url>
     <loc>//localhost:1313/2025/06/%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D9%86%D9%85/</loc>
     <lastmod>2025-06-10T00:00:00+03:30</lastmod>
   </url><url>
     <loc>//localhost:1313/2025/06/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA/</loc>
-    <lastmod>2025-06-10T00:00:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fatags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/</loc>
-    <lastmod>2025-06-10T00:00:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-06-10T00:00:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fatags/</loc>
-    <lastmod>2025-06-10T00:00:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fatags/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/</loc>
     <lastmod>2025-06-10T00:00:00+03:30</lastmod>
   </url><url>
     <loc>//localhost:1313/bank/</loc>
@@ -34,6 +40,16 @@
   </url><url>
     <loc>//localhost:1313/archives/</loc>
   </url><url>
+    <loc>//localhost:1313/fatags/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA/</loc>
+  </url><url>
+    <loc>//localhost:1313/1/01/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%DA%86%DB%8C%D8%B3%D8%AA/</loc>
+  </url><url>
+    <loc>//localhost:1313/fatags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C/</loc>
+  </url><url>
+    <loc>//localhost:1313/fatags/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</loc>
+  </url><url>
     <loc>//localhost:1313/aboutme/</loc>
+  </url><url>
+    <loc>//localhost:1313/1/01/%DA%AF%D9%88%DA%AF%D9%84-%D8%AA%D8%B1%D9%86%D8%B3%D9%84%DB%8C%D8%AA/</loc>
   </url>
 </urlset>
